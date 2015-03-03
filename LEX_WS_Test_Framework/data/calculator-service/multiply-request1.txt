@@ -1,0 +1,9 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ws="http://ws.lexmark.com/">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <ws:multiply>
+         <arg0>2</arg0>
+         <arg1>5</arg1>
+      </ws:multiply>
+   </soapenv:Body>
+</soapenv:Envelope>

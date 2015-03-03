@@ -1,0 +1,1 @@
+<?xml version="1.0" ?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:multiplyResponse xmlns:ns2="http://ws.lexmark.com/"><return>10</return></ns2:multiplyResponse></S:Body></S:Envelope>
